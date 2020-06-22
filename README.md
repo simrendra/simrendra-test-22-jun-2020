@@ -1,8 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created for checkout.com test.
+Some highlights
+
+1.  This project is developed in react.
+2.  I have used react hooks and context API for data store
+3.  Used react-bootstrap component library
+4.  Used Rechart for charting
+5.  I have created small utility to persist data for particular session. (Refer db.js for more details)
+6.  Added basic test support
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
+
+To install dependencies
 
 ### `yarn start`
 
